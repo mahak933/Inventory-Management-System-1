@@ -2,12 +2,10 @@
 This repository is having all the codes used in AI/ML Internship by ETG
 
 ## All Files 
-record.json
-sales.json
-my_new_products.ipynb
-sales.ipynb
+record.json ,sales.json ,my_new_products.ipynb ,sales.ipynb
 
 # Features 
+adding new products , puchase from given products , generate the bill with customer name ,date and time , get the overall saling list 
 ## Product Features 
 prod_id ,name ,pr ,qn
 ## Transaction Features 
